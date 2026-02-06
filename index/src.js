@@ -1,2 +1,2 @@
 console.log('index.src')
-console.log('version1')
+console.log('version3-remote')
