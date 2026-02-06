@@ -1,2 +1,2 @@
 console.log('config')
-console.log('version3-remote')
+console.log('version4-remote')
